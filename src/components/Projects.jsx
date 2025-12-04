@@ -52,7 +52,7 @@ const PROJECTS = [
     img: p3,
     description: "Dashboard for Analysis of sales in businuess .",
     tags: ["Javascript","React.js", "Tailwindcss"],
-    github: "",
+    github: "https://github.com/murjanii/salesdashboard",
     live: "https://salesdashboard-mu.vercel.app/",
   },
    {
@@ -61,8 +61,8 @@ const PROJECTS = [
     img: p4,
     description: "Dashboard for Analysis of Patients in hospital .",
     tags: ["Javascript","React.js", "Tailwindcss"],
-    github: "",
-    live: "https://salesdashboard-mu.vercel.app/",
+    github: "https://github.com/murjanii/medicaldasboard",
+    live: "https://medicaldasboard.vercel.app",
   },
 ];
 
