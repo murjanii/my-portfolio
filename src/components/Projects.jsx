@@ -32,7 +32,7 @@ const PROJECTS = [
     id: "p1",
     title: "Weather App",
     img: p1,
-    description: "Modern shop UI with product filters and cart interactions.",
+    description: "ahows weather.",
     tags: ["React", "Tailwind"],
     github: "https://github.com/murjanii/Weather-app",
     live: "https://weather-app-a9la.vercel.app/",
@@ -41,10 +41,11 @@ const PROJECTS = [
     id: "p2",
     title: "Smart Waste Managemnet",
     img: p2,
-    description: "Analytics dashboard with charts and responsive layout.",
-    tags: ["Javascript","React.js", "Tailwind css","Mongodb","Node.js"],
-    github: "https://github.com/murjanii/saas-dashboard",
-    live: "", // empty string hides the live button
+    description: "A Smart Waste Management System that streamlines waste collection, complaint tracking, driver assignment, and bin monitoring with a modern, automated dashboard",
+    tags: ["Javascript","React.js", "Tailwind css","Mongodb","Node.js+express"],
+    githubFrontend: "https://github.com/murjanii/SWMS-FRONTEND",
+    githubBackend: "https://github.com/murjanii/SWMS-BACKEND",
+    live: "https://swms-frontend-p17h-q0iqw4th9-vineet-murjanis-projects.vercel.app", // empty string hides the live button
   },
   {
     id: "p3",
